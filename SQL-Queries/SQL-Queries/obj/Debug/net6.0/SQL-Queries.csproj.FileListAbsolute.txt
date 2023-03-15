@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\ADBook-UC21-Using-Threads\ADBook-UC21-Using-Threads\SQL-Queries\SQL-Queries\obj\Debug\net6.0\SQL-Queries.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ADBook-UC21-Using-Threads\ADBook-UC21-Using-Threads\SQL-Queries\SQL-Queries\obj\Debug\net6.0\SQL-Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ADBook-UC21-Using-Threads\ADBook-UC21-Using-Threads\SQL-Queries\SQL-Queries\obj\Debug\net6.0\SQL-Queries.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ADBook-UC21-Using-Threads\ADBook-UC21-Using-Threads\SQL-Queries\SQL-Queries\obj\Debug\net6.0\SQL-Queries.AssemblyInfo.cs
+C:\Users\USER\source\repos\ADBook-UC21-Using-Threads\ADBook-UC21-Using-Threads\SQL-Queries\SQL-Queries\obj\Debug\net6.0\SQL-Queries.csproj.CoreCompileInputs.cache

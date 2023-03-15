@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>SQL_Queries</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SoredProcedureWithDateOfEntryAsTheInput.sql" />
+    <None Remove="SQLQueryToAddDateOfEntryColumn.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="SoredProcedureWithDateOfEntryAsTheInput.sql" />
+    <Compile Include="SQLQueryToAddDateOfEntryColumn.sql" />
+  </ItemGroup>
+
+</Project>
